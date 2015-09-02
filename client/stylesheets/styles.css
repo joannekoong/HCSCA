@@ -1,0 +1,67 @@
+html,body {
+  height:100%;
+  
+
+}
+
+h1 {
+  font-family: Arial,sans-serif
+  font-size:80px;
+  /*color:#DDCCEE;*/
+  color: black;
+  margin-left: 100px;
+}
+
+.lead {
+	/*color:#DDCCEE;*/
+  color: black;
+  margin-left: 400px;
+}
+
+
+/* Custom container */
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  margin-top: -10px;
+  min-height:102%;
+/*  background-color:#110022; */
+  
+background-image: url(/eternal_sunshine.gif);
+background-repeat: no-repeat;
+    background-size: 100% 100%;  
+  /*color:#eee;*/
+  overflow:hidden;
+  position: relative;
+}
+
+.container-full a {
+  color:#efefef;
+  text-decoration:none;
+}
+
+.v-center {
+  margin-top:7%;
+}
+
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  margin-top: -30px;
+
+  font-size: 80px;
+}
+.lead {
+  font-family: 'IM Fell Great Primer', cursive;
+}
+
+#menu-nav {
+  right: 0; 
+  bottom: 20px;
+  margin-right: 20px;
+  color: white;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 20px;
+  position: absolute;
+}
+
